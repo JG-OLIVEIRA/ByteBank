@@ -1,2 +1,2 @@
 # ByteBank
-Um projeto de bando de dados da Alura usando POO.
+Um projeto de banco de dados da Alura usando POO.
